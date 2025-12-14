@@ -1,0 +1,19 @@
+Portfolio diversification is a risk management strategy that involves spreading investments across different asset classes, sectors, and geographies to reduce exposure to any single risk factor. The core idea is that different assets react differently to the same market conditions.
+
+Equities represent ownership in a company and typically offer higher long-term returns, but they also come with higher volatility. Bonds, on the other hand, are debt instruments that provide fixed income and are generally less volatile than stocks. A balanced portfolio often includes both equities and bonds to achieve a trade-off between growth and stability.
+
+Market risk, also known as systematic risk, affects the entire market and cannot be eliminated through diversification. Examples include inflation, interest rate changes, and macroeconomic events. In contrast, unsystematic risk is company-specific and can be significantly reduced through proper diversification.
+
+Technical analysis involves analyzing historical price and volume data to identify patterns and trends. Common technical indicators include moving averages, Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and Bollinger Bands. These indicators help traders identify entry and exit points but do not predict future prices with certainty.
+
+Fundamental analysis focuses on evaluating a company’s intrinsic value by examining financial statements, revenue growth, profitability, industry position, and economic conditions. Key financial metrics include earnings per share (EPS), price-to-earnings ratio (P/E), return on equity (ROE), and debt-to-equity ratio.
+
+Liquidity refers to how easily an asset can be bought or sold in the market without affecting its price. Highly liquid assets, such as large-cap stocks, can be traded quickly, while illiquid assets like real estate or private equity require more time to convert into cash.
+
+Volatility measures the degree of variation in an asset’s price over time. Higher volatility indicates larger price swings and higher risk. Volatility is often measured using standard deviation or indicators like Average True Range (ATR).
+
+Risk-adjusted returns evaluate investment performance relative to the risk taken. Metrics such as the Sharpe Ratio and Sortino Ratio help investors understand whether higher returns are due to smart allocation or excessive risk-taking.
+
+Algorithmic trading uses predefined rules and quantitative models to execute trades automatically. These systems rely heavily on data quality, latency, and robust risk controls. Poor data preprocessing can lead to incorrect signals and significant losses.
+
+Long-term investing focuses on holding assets over extended periods to benefit from compounding and economic growth. Short-term trading aims to profit from market inefficiencies and price movements but requires active monitoring and strict risk management.
