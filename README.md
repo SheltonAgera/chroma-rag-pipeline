@@ -9,6 +9,9 @@ Python, Chroma (Vector Database), Sentence-Transformers (Embeddings)
 Why Chroma?
 Chroma was chosen because it is lightweight, runs locally, and makes vector storage and retrieval easy to inspect and debug during development.
 
-Evaluation:
+Why LangChain?
+I implemented the RAG pipeline manually first to understand chunking, embeddings, and retrieval behavior. Once stable, I integrated LangChain only at the retriever layer to reduce boilerplate, while keeping the core logic transparent and debuggable.
 
+Evaluation:
 A simple Precision@K metric is used to evaluate retrieval quality. This helps identify weak retrieval results and improve chunking or embedding strategies.
+
